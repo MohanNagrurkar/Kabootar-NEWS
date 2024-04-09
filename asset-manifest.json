@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kabootar-News/static/css/main.dc4d6ff2.css",
+    "main.js": "/Kabootar-News/static/js/main.1b4acd7b.js",
+    "static/js/453.6c3fffb1.chunk.js": "/Kabootar-News/static/js/453.6c3fffb1.chunk.js",
+    "index.html": "/Kabootar-News/index.html",
+    "main.dc4d6ff2.css.map": "/Kabootar-News/static/css/main.dc4d6ff2.css.map",
+    "main.1b4acd7b.js.map": "/Kabootar-News/static/js/main.1b4acd7b.js.map",
+    "453.6c3fffb1.chunk.js.map": "/Kabootar-News/static/js/453.6c3fffb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.1b4acd7b.js"
+  ]
+}
