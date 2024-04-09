@@ -1,4 +1,4 @@
-This is the sample news headlines website bulid to get the daily insights.
+This is the news headlines website which gives the daily news insights.
 
 # Getting Started with Create React App
 
